@@ -13,4 +13,9 @@ public class MainActivity extends AppCompatActivity {
         //new chnages
         //Hellworld
     }
+
+    private void init(){
+
+        int i = 0;
+    }
 }
